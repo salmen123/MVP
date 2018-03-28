@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP</string>
+
+    <string name="hint_user_name">Enter UserName</string>
+    <string name="hint_user_password">Enter Password</string>
+    <string name="txt_login">LOGIN</string>
+</resources>
